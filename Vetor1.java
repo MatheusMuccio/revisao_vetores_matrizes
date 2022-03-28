@@ -27,7 +27,7 @@ public class Vetor1{
         estoque[9] = 100;
 
         for (int index = 0; index < produto.length; index++) {
-            System.out.println("O produto " + produto[index] + " tem + " + estoque[index] + " unidades em estoque.");
+            System.out.println("O produto " + produto[index] + " tem " + estoque[index] + " unidades em estoque.");
             
         }
     }
